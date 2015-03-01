@@ -1,3 +1,4 @@
 #!/bin/bash
-
+# this shell script gives call to gtkApp which is background changer utility for GNOME and MATE desktops.
+# requires Python
 python gtkApp.py
