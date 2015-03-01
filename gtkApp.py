@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# this is front end for ChangeBG utility
 from gi.repository import Gtk
 import subprocess
 
